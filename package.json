@@ -1,0 +1,17 @@
+{
+  "name": "express-021522",
+  "version": "1.0.0",
+  "description": "This is a NodeJS / ExpressJS project",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Rashad Nelson",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
